@@ -1,12 +1,12 @@
 {
   "name": "status",
-  "version": "1.7.1",
+  "version": "1.7.2",
   "main": "index.js",
   "license": "MIT",
-  "homepage": "https://github.com/glopezep/helm",
+  "homepage": "https://github.com/bibou6/helm",
   "author": {
-    "name": "glopezep",
-    "url": "https://github.com/glopezep"
+    "name": "bibou6",
+    "url": "https://github.com/bibou6"
   },
   "dependencies": {
     "@actions/core": "^1.2.6",
